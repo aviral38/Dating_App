@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496933108104",
+    "project_id": "matri-b9f55",
+    "storage_bucket": "matri-b9f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496933108104:android:354d5e2d223f44d25ee23d",
+        "android_client_info": {
+          "package_name": "com.example.matri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496933108104-oc615vjij1oojonobi8g3ctlbuqts0r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgviRSOtlnJ8hjW_FP5wmgsffoUR-u0k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496933108104-oc615vjij1oojonobi8g3ctlbuqts0r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
